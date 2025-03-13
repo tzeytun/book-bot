@@ -15,13 +15,12 @@ Book Bot is a simple Python application that analyzes a book text file and provi
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
     ```bash
     git clone https://github.com/tzeytun/book-bot.git
     cd book-bot
     ```
 
-2. Install any required dependencies (if applicable).
 
 ## Usage
 
@@ -32,7 +31,7 @@ python3 main.py <path_to_book>
 
 Example:
 ```bash
-python3 main.py books/my_favorite_book.txt
+python3 main.py books/frankenstein.txt
 ```
 
 ## Files
