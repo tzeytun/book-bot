@@ -15,7 +15,7 @@ Book Bot is a simple Python application that analyzes a book text file and provi
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
     ```bash
     git clone https://github.com/tzeytun/book-bot.git
     cd book-bot
